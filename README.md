@@ -10,7 +10,7 @@
 
 ### Run the program
 1. `python bot.py 55.755825 37.617298 tank`  
-To see the result you have to install the ATAK-CIV application (see the `Install the application ATAC` chapter)
+To see the result you have to install the ATAK-CIV application (see the `Install the application ATAK` chapter)
 
 ## .env variables
 By default, the data for connecting to the public server is used (see Public Connection Details), but if you need to customise the connection data, you can rename the file `.env.sample` to `.env` and fill in the variables.
@@ -21,7 +21,7 @@ By default, the data for connecting to the public server is used (see Public Con
 
 ---
 
-## Install the application ATAC
+## Install the application ATAK
 ### Download the app
 On your phone (Android) install the application by this link https://play.google.com/store/apps/details?id=com.atakmap.app.civ&pli=1
 
